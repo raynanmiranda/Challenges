@@ -1,0 +1,7 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Shopping","Add product to Cart - HomePage","SUCCESS","2020-01-19T23:58:38.55207-02:00[America/Sao_Paulo]","0.0","17.98"
+"Shopping","Add product to Cart - Home Page Quick View","SUCCESS","2020-01-19T23:58:56.8569005-02:00[America/Sao_Paulo]","0.0","21.09"
+"Shopping","Add Review By Product Details","SUCCESS","2020-01-19T23:59:18.2460108-02:00[America/Sao_Paulo]","0.0","29.53"
+"Shopping","Add product to wishList on product Details","ERROR","2020-01-19T23:59:48.0562443-02:00[America/Sao_Paulo]","0.0","60.99"
+"Shopping","Remove product to wishList on product Details","SUCCESS","2020-01-20T00:00:49.3972155-02:00[America/Sao_Paulo]","0.0","32.44"
+"Shopping","Finalize the purchase of a product - BankWire Payment","SUCCESS","2020-01-20T00:01:22.1323076-02:00[America/Sao_Paulo]","0.0","38.09"

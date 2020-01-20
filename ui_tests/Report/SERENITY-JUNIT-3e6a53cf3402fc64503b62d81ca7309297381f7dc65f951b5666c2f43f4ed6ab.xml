@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Login" skipped="1" tests="4" time="71.87" timestamp="2020-01-19 11:57:25"><testcase name="Sign Up the account"><skipped/></testcase><testcase name="Sign In the account"/><testcase name="Add New Address"/><testcase name="Update The Address"/></testsuite>

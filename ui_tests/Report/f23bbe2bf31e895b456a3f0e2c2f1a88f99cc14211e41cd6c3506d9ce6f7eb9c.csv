@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Sign Up the account","PENDING","2020-01-19T23:57:25.4315288-02:00[America/Sao_Paulo]","0.0","0.05"
+"Login","Sign In the account","SUCCESS","2020-01-19T23:57:25.4984875-02:00[America/Sao_Paulo]","0.0","19.99"
+"Login","Add New Address","SUCCESS","2020-01-19T23:57:45.7700522-02:00[America/Sao_Paulo]","0.0","28.69"
+"Login","Update The Address","SUCCESS","2020-01-19T23:58:14.8052135-02:00[America/Sao_Paulo]","0.0","23.14"
